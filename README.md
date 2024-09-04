@@ -4,3 +4,8 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Cheid-Python-brightgreen?style=for-the-badge&logo=python&logoColor=Light%20green)
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cheid66&show_icons=true&theme=radical)
